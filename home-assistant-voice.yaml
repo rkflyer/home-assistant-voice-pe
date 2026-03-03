@@ -1713,7 +1713,7 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
-    - model: hey_jarvis
+    - model: https://raw.githubusercontent.com/rkflyer/wake-word-voice-assistants/main/models/hey_jarvis.json
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
